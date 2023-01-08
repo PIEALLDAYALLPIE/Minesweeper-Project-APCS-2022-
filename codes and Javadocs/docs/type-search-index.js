@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","u":"allclasses-index.html"},{"p":"<Unnamed>","l":"Board"},{"p":"<Unnamed>","l":"Cell"},{"p":"<Unnamed>","l":"Minesweeper"},{"p":"<Unnamed>","l":"MyTimer"},{"p":"<Unnamed>","l":"PopUpBestRecords"},{"p":"<Unnamed>","l":"PopUpLose"},{"p":"<Unnamed>","l":"PopUpWin"},{"p":"<Unnamed>","l":"Window"}];updateSearchResults();
